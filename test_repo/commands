@@ -1,0 +1,6 @@
+git init 
+git add
+git commit -m "sample1"
+git clone url
+git reset --soft cid
+git reset --mixed cid
